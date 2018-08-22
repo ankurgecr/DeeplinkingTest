@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Website base URL to share, without HTTP of HTTPS-->
+    <!--for example: 'api.rideotg-dev.xyz'-->
+    <string name="linkUrl">api.rideotg-dev.xyz</string>
+
+    <!-- prefix page or endpoint, must start with '/' character -->
+    <!--for example '/deeplinktest'-->
+    <string name="linkPrefix">/deeplinktest</string>
+
+    <!-- change your parameter name you are receiving in link -->
+    <!--for example '/roomId'-->
+    <string name="param1ToParse">roomId</string>
+    <string name="param2ToParse">playerId</string>
+
+</resources>
